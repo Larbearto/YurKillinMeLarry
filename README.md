@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Front-end web developer
 -----------------------
-
+<a href="https://app.daily.dev/YurKilnMeLarry"><img src="https://api.daily.dev/devcards/4386be17ee9244e1bc5199d249d24ab8.png?r=t6m" width="400" alt="Spider Bear's Dev Card"/></a>
 * 🌍  I'm based in Orange County, CA
 * ✉️  You can contact me at [larryly1@gmail.com](mailto:larryly1@gmail.com)
 * 🧠  I'm learning NextJs, Tailwindcss
